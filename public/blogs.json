@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/VYbsYy2/2.png",
+      "title": "The Rise of JavaScript",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/WWDb6tS/boy1.png",
+      "posted_date": "2024-10-01",
+      "reading_time": "5 min read",
+      "hashtags": ["#JavaScript", "#WebDevelopment", "#Programming"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/RyQDf7Z/hand-typing-computer-546192-12294.jpg",
+      "title": "Mastering React in 2024",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/5YqmrNW/boy2.jpg",
+      "posted_date": "2024-09-25",
+      "reading_time": "8 min read",
+      "hashtags": ["#React", "#Frontend", "#WebDevelopment"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/HdxWfgM/man-with-microphone-front-screen-that-says-979520-119531.jpg",
+      "title": "A Guide to Modern CSS",
+      "author": "Alex Johnson",
+      "author_img": "https://i.ibb.co.com/2dN2FL3/girl1.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": "6 min read",
+      "hashtags": ["#CSS", "#Design", "#WebDesign"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/LzXVF7X/person-is-typing-laptop-with-watch-screen-1249787-5469.jpg",
+      "title": "Understanding Node.js",
+      "author": "Emily Davis",
+      "author_img": "https://i.ibb.co.com/m9n624J/girl2.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": "7 min read",
+      "hashtags": ["#NodeJS", "#Backend", "#JavaScript"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/images/cover5.jpg",
+      "title": "The Future of AI in Web Development",
+      "author": "Michael Lee",
+      "author_img": "https://i.ibb.co.com/m9n624J/girl2.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": "10 min read",
+      "hashtags": ["#AI", "#WebDevelopment", "#Technology"]
+    }
+  ]
+  
