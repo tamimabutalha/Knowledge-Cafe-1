@@ -38,16 +38,7 @@
       "posted_date": "2024-09-15",
       "reading_time": "7 min read",
       "hashtags": ["#NodeJS", "#Backend", "#JavaScript"]
-    },
-    {
-      "id": 5,
-      "cover": "https://example.com/images/cover5.jpg",
-      "title": "The Future of AI in Web Development",
-      "author": "Michael Lee",
-      "author_img": "https://i.ibb.co.com/m9n624J/girl2.jpg",
-      "posted_date": "2024-10-10",
-      "reading_time": "10 min read",
-      "hashtags": ["#AI", "#WebDevelopment", "#Technology"]
     }
+    
   ]
   
